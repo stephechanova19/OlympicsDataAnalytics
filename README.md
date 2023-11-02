@@ -20,7 +20,7 @@ The data source used was the Tokyo Olympic Data of 2021 from Kaggle: https://www
 - Power BI
 
 
-###
+## Process
 Ingestion: We extract data from the API using Azure Data Factory
 
 Storage: The raw data is loaded into Azure Data Lake.
