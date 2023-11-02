@@ -5,7 +5,7 @@ Azure end-to-end Data Engineering Project
 This end-to-end Azure analytics project was from Darshil Parmar in Youtube. We did raw data extraction, transformation, loading the data in SQL and dashboard creation.
 
 ## Personal Goal
-I wanted to gain a comprehensive understanding of the Azure data pipeline, starting from the raw data ingestion stage to gaining insighs in SQL and providing a usable dashboard.
+I wanted to gain a comprehensive understanding of the Azure data pipeline, starting from the raw data ingestion stage to gaining insights in SQL and creating a usable dashboard.
 
 ### Data Sources
 
