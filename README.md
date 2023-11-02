@@ -1,5 +1,4 @@
-# Olympics Data Analytics
-Azure end-to-end Data Engineering Project
+# Olympics Data Analytics Azure End-to-End Data Engineering Project
 
 # Project Overview
 This end-to-end Azure analytics project was from Darshil Parmar in Youtube. We did raw data extraction, transformation, loading the data in SQL and dashboard creation.
